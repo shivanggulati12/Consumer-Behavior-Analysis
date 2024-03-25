@@ -1,7 +1,7 @@
 # Consumer-Behavior-Analysis
 The project aims to uncover patterns, preferences, and potential opportunities for product optimization and targeted marketing strategies within the FMCG sector, specifically analyzing chip brands. This repository contains the code and analysis for the BAMA 517 Marketing Capstone Project, focusing on comprehensive data analysis and insights generation from retail transaction and customer purchase behavior datasets
 
-Objective
+# Objective
 The primary objective of this project is to apply marketing analytics techniques to real-world datasets to:
 
 Understand consumer purchase behaviors.
@@ -13,7 +13,7 @@ The analysis utilizes two main datasets:
 
 QVI_purchase_behaviour.csv: Contains data on customer purchase behaviors including loyalty card number, age group, marital status, and purchasing category.
 QVI_transaction_data.xlsx: Includes detailed transaction data such as product name, package size, purchase quantity, and transaction time.
-Methodology
+# Methodology
 The project follows a structured data analysis approach:
 
 Data Cleaning: Preprocessing data to handle missing values, correct anomalies, and prepare datasets for analysis.
@@ -22,7 +22,5 @@ Exploratory Data Analysis (EDA): Analyzing distributions, correlations, and patt
 Feature Engineering: Extracting meaningful features from product names and transaction details to facilitate deeper analysis.
 Customer Segmentation: Using clustering techniques to segment customers based on their purchasing behavior.
 Insight Generation: Drawing actionable insights from the analysis to inform marketing strategies.
-Tools Used
+# Tools Used
 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-Results and Insights
-Highlight the key findings and insights from your analysis. This could include customer segments identified, purchasing patterns, and potential recommendations for targeted marketing strategies.
